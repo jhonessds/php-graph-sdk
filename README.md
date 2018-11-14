@@ -89,3 +89,4 @@ Please see the [license file](https://github.com/facebook/php-graph-sdk/blob/mas
 ## Security Vulnerabilities
 
 If you have found a security issue, please contact the maintainers directly at [me@sammyk.me](mailto:me@sammyk.me).
+ jhones sds
